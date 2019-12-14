@@ -29,9 +29,9 @@
 
 ## เว็บไซต์หลัก
 
-https://goragod.com/index.php?module=knowledge&id=3876
+https://thestandard.co/personoftheyear2019/
 
 ## ตัวอย่าง
 
-- Front End : https://vote.kotchasan.com/index.html
-- Admin : https://vote.kotchasan.com/admin.php
+- Front End : https://thestandard.co/personoftheyear2019/ลลิษา มโมนบาล 
+- Admin : https://Votes/thestandard.co/personoftheyear2019/admin.php
